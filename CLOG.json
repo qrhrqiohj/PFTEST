@@ -1,0 +1,51 @@
+{
+    "games": {
+        "Universal": {
+            "Owner": "Tyler",
+            "id": null,
+            "github": "https://raw.githubusercontent.com/qrhrqiohj/PFTEST/refs/heads/main/Roblox.json",
+            "replacement": "https://raw.githubusercontent.com/qrhrqiohj/PFTEST/refs/heads/main/Replacements.json"
+        },
+        "CBRO": {
+            "Owner": "Tyler",
+            "id": 301549746,
+            "github": "https://raw.githubusercontent.com/qrhrqiohj/PFTEST/refs/heads/main/CBRO.json",
+            "replacement": null
+        },          
+        "Phantom Forces": {
+            "Owner": "T4T",
+            "id": 292839719,
+            "github": "https://raw.githubusercontent.com/qrhrqiohj/PFTEST/refs/heads/main/PhantomForces.json",
+            "replacement": null
+        },
+        "AR2": {
+            "Owner": "TinyPeruzo",
+            "id": 863266079,
+            "github": null,
+            "replacement": "https://raw.githubusercontent.com/standingmcdonalds/ar2fleasion/refs/heads/main/ar2%20new.json"
+        },
+        "DaHood": {
+            "Owner": ".o0x",
+            "id": 2788229376,
+            "github": "https://raw.githubusercontent.com/gastrophobic/Fleasion_Contributes/refs/heads/main/dahood.json",
+            "replacement": null
+        },
+        "Rivals": {
+            "Owner": ".o0x",
+            "id": 17625359962,
+            "github": "https://raw.githubusercontent.com/gastrophobic/Fleasion_Contributes/refs/heads/main/rivals.json"
+        },
+        "Jailbreak": {
+            "Owner": "Sky",
+            "id": 606849621,
+            "github": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/refs/heads/main/ORIGINAL.json",
+            "replacement": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/refs/heads/main/REPLACEMENT.json"
+        },
+        "Prison Life": {
+            "Owner": "Sky",
+            "id": 155615604,
+            "github": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/refs/heads/main/ORIGINAL.json",
+            "Replacement": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/refs/heads/main/REPLACEMENT.json"
+        }
+    }
+}
