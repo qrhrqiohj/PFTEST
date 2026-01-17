@@ -21,8 +21,8 @@
         "AR2": {
             "Owner": "TinyPeruzo",
             "id": 863266079,
-            "github": null,
-            "replacement": "https://raw.githubusercontent.com/standingmcdonalds/ar2fleasion/refs/heads/main/ar2%20new.json"
+            "github": "https://raw.githubusercontent.com/standingmcdonalds/ar2fleasion/refs/heads/main/ar2%20new.json",
+            "replacement": null
         },
         "DaHood": {
             "Owner": ".o0x",
@@ -48,4 +48,5 @@
             "Replacement": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/refs/heads/main/REPLACEMENT.json"
         }
     }
+
 }
