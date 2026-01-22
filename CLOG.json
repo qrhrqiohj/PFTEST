@@ -16,7 +16,7 @@
             "Owner": "T4T",
             "id": 292839719,
             "github": "https://raw.githubusercontent.com/qrhrqiohj/PFTEST/refs/heads/main/PhantomForces.json",
-            "replacement": null
+            "replacement": "https://raw.githubusercontent.com/qrhrqiohj/PFTEST/refs/heads/main/PfReplacement.json"
         },
         "AR2": {
             "Owner": "TinyPeruzo",
@@ -50,3 +50,4 @@
     }
 
 }
+
