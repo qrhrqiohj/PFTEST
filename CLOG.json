@@ -33,7 +33,8 @@
         "Rivals": {
             "Owner": ".o0x",
             "id": 17625359962,
-            "github": "https://raw.githubusercontent.com/gastrophobic/Fleasion_Contributes/refs/heads/main/rivals.json"
+            "github": "https://raw.githubusercontent.com/gastrophobic/Fleasion_Contributes/refs/heads/main/rivals.json",
+            "replacement": null
         },
         "Jailbreak": {
             "Owner": "Sky",
@@ -50,4 +51,5 @@
     }
 
 }
+
 
