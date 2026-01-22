@@ -1,5 +1,34 @@
 {
-  "Sleeve/Texture Replacements": {
+  "Texture Replacements": {
+    "Hitmarkers": {
+      "Big Hitmarker": "18770487347",
+      "Big Purple Hitmarker": "18529944514",
+      "Blue Hitmarker": "78934453860157",
+      "Green Hitmarker": "18764363676",
+      "New Pink Hitmarker": "18587995951",
+      "Old Pink Hitmarker": "15120909603",
+      "Pink Hitmarker Better": "18507209455",
+      "MW2": "135491786925142",
+      "Light Blue": "73082610424554",
+      "Red": "133265061624300",
+      "Fuchsia": "83889362980812",
+      "Yellow": "131442262255200",
+      "Cyan": "129934467166269",
+      "White middle dot": "93506763782182",
+      "Green middle dot": "76648702504000",
+      "Red middle dot": "132559212476171",
+      "Blue middle dot": "110569852814633",
+      "Fuchsia middle dot": "138585628962679",
+      "Yellow middle dot": "80104544572842",
+      "Cyan middle dot": "109466110047089",
+      "White cross": "99390951086343",
+      "Green cross": "138352078801605",
+      "Red cross": "107221679291310",
+      "Blue cross": "88370180353343",
+      "Fuchsia cross": "117947805547035",
+      "Yellow cross": "138031754983532",
+      "Cyan cross": "113897323901873"
+    },
     "Sleeves": {
       "XMas Night 3": "18607287860",
       "Water Texture": "10331932286",
@@ -551,77 +580,8 @@
       "Thompson": "18681345432"
     }
   },
-  "Misc Sounds": {
-    "Funny Sounds":{
-      "Bat Hit": "3333907347",
-      "Beta Bfg50": "264034413",
-      "Boss Roar": "430616210",
-      "Cave Sound 1": "3173566193",
-      "Cave Sound 2": "3173577378",
-      "Cave Sound 3": "3231980820",
-      "Cheezburger Plz": "5587441719",
-      "D'oh": "260805230",
-      "Ded": "131554451",
-      "Failure": "917817430",
-      "Fart 1": "131314452",
-      "Fart 2": "130833677",
-      "Fart 3": "6422329291",
-      "Frying Pan": "3431749479",
-      "Metal Pipe": "8212205984",
-      "Mmm Cheezburger": "9062976951",
-      "Nom Nom Nom": "6770036737",
-      "Nope.avi": "245064504",
-      "Pizza": "5732294340",
-      "Pootis": "148636758",
-      "Pow!": "679798995",
-      "Right Behind You": "9062555852",
-      "Slap": "511340819",
-      "Whack": "101166084",
-      "Windows Error": "9066167010"
-  }
-},
-  "Attachments/Gun Replacements": {
-    "Attachments": {
-      "Ballistics Tracker": {
-        "Anti Bt": "18630784179",
-        "Ipad Kid Bt": "18665311042"
-      },
-      "Placeholder": "Placeholder"
-    },
-    "Guns": {
-      "Placeholder": "Placeholder",
-      "Placeholder2": "Placeholder"
-    },
-  "Hitmarkers": {
-      "Big Hitmarker": "18770487347",
-      "Big Purple Hitmarker": "18529944514",
-      "Blue Hitmarker": "78934453860157",
-      "Green Hitmarker": "18764363676",
-      "New Pink Hitmarker": "18587995951",
-      "Old Pink Hitmarker": "15120909603",
-      "Pink Hitmarker Better": "18507209455",
-      "MW2": "135491786925142",
-      "Light Blue": "73082610424554",
-      "Red": "133265061624300",
-      "Fuchsia": "83889362980812",
-      "Yellow": "131442262255200",
-      "Cyan": "129934467166269",
-      "White middle dot": "93506763782182",
-      "Green middle dot": "76648702504000",
-      "Red middle dot": "132559212476171",
-      "Blue middle dot": "110569852814633",
-      "Fuchsia middle dot": "138585628962679",
-      "Yellow middle dot": "80104544572842",
-      "Cyan middle dot": "109466110047089",
-      "White cross": "99390951086343",
-      "Green cross": "138352078801605",
-      "Red cross": "107221679291310",
-      "Blue cross": "88370180353343",
-      "Fuchsia cross": "117947805547035",
-      "Yellow cross": "138031754983532",
-      "Cyan cross": "113897323901873"
-    },
-  "Og Hit Sounds": {
+  "Sounds": {
+    "Hit Sounds": {
       "Hit Sound Thing": "18533074429",
       "Hitmarker": "17727836121",
       "Bamboo": "99253272090300",
@@ -702,6 +662,46 @@
       "FX_23": "127116450585837",
       "FX_043": "127844191986522",
       "Bomb_001": "119186222673911"
+    },
+    "Funny Sounds":{
+      "Bat Hit": "3333907347",
+      "Beta Bfg50": "264034413",
+      "Boss Roar": "430616210",
+      "Cave Sound 1": "3173566193",
+      "Cave Sound 2": "3173577378",
+      "Cave Sound 3": "3231980820",
+      "Cheezburger Plz": "5587441719",
+      "D'oh": "260805230",
+      "Ded": "131554451",
+      "Failure": "917817430",
+      "Fart 1": "131314452",
+      "Fart 2": "130833677",
+      "Fart 3": "6422329291",
+      "Frying Pan": "3431749479",
+      "Metal Pipe": "8212205984",
+      "Mmm Cheezburger": "9062976951",
+      "Nom Nom Nom": "6770036737",
+      "Nope.avi": "245064504",
+      "Pizza": "5732294340",
+      "Pootis": "148636758",
+      "Pow!": "679798995",
+      "Right Behind You": "9062555852",
+      "Slap": "511340819",
+      "Whack": "101166084",
+      "Windows Error": "9066167010"
+  }
+},
+  "Attachments/Gun Replacements": {
+    "Attachments": {
+      "Ballistics Tracker": {
+        "Anti Bt": "18630784179",
+        "Ipad Kid Bt": "18665311042"
+      },
+      "Kousaku Oled Half Frame": "18912724882"
+    },
+    "Guns": {
+      "Placeholder": "Placeholder",
+      "Placeholder2": "Placeholder"
     }
   }
 }
