@@ -47,9 +47,16 @@
             "id": 155615604,
             "github": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/refs/heads/main/ORIGINAL.json",
             "Replacement": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/refs/heads/main/REPLACEMENT.json"
+        },
+        "T4T Modpack": {
+            "Owner": "T4T",
+            "id": null,
+            "github": null,
+            "Replacement": "https://raw.githubusercontent.com/Time4trouble/Fleasion-Dump/refs/heads/main/T4T%20ModPack.json"
         }
     }
 
 }
+
 
 
