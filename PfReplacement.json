@@ -697,7 +697,7 @@
       "Windows Error": "9066167010"
   }
 },
-  "Attachments/Gun Replacements": {
+  "Model Replacements": {
     "Attachments": {
       "Ballistics Tracker": {
         "Anti Bt": "18630784179",
@@ -708,6 +708,12 @@
     "Guns": {
       "Placeholder": "Placeholder",
       "Placeholder2": "Placeholder"
+    },
+    "Grenades": {
+      "Subspace Tripmine": {
+        "Model": "18604018190",
+        "Texture": "11954766"
+      }
     }
   }
 }
