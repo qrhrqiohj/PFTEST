@@ -2035,10 +2035,13 @@
       "Kousaku Oled Frame": "7605485290"
     },
     "Grenades": {
-      "Subspace Tripmine": {
-        "Model": "18604018190",
-        "Texture": "11954766"
+      "RGD-5 HE": {
+        "Model": "9285322629",
+        "Fuse": "9285322623",
+        "Pin": "9285390436",
+        "Texture": "9285367710"
       }
     }
   }
 }
+
