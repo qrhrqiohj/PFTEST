@@ -1,5 +1,11 @@
 {
   "Texture Replacements": {
+    "optics": {
+      "red dot very small": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/red_dot_very_small.png?raw=true",
+      "red dot small": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/red_dot_small.png?raw=true",
+      "red dot big": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/red_dot_big.png?raw=true",
+      "red dot very big": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/red_dot_very_big.png?raw=true"
+    },
     "Hitmarkers": {
       "Big Hitmarker": "18770487347",
       "Big Purple Hitmarker": "18529944514",
