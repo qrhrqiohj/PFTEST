@@ -48,6 +48,12 @@
             "github": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/refs/heads/main/ORIGINAL.json",
             "Replacement": "https://raw.githubusercontent.com/CfwSky/PrisonLife-Floppr/refs/heads/main/REPLACEMENT.json"
         },
+        "SEWH": {
+            "Owner": "Sky",
+            "id": 16991287194,
+            "github": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/refs/heads/main/ORIGINAL.json",
+            "Replacement": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/refs/heads/main/REPLACEMENT.json"
+        },
         "T4T Modpack": {
             "Owner": "T4T",
             "id": null,
@@ -57,6 +63,7 @@
     }
 
 }
+
 
 
 
