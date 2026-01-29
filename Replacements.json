@@ -1,756 +1,790 @@
 {
+  "Textures": {
+    "Colors": {
+      "red": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/red.png?raw=true",
+      "blue": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/blue.png?raw=true",
+      "yellow": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/yellow.png?raw=true",
+      "orange": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/orange.png?raw=true",
+      "green": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/green.png?raw=true",
+      "purple": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/purple.png?raw=true",
+      "pink": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/pink.png?raw=true",
+      "brown": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/brown.png?raw=true",
+      "white": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/white.png?raw=true",
+      "black": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/black.png?raw=true",
+      "gray": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/gray.png?raw=true",
+      "silver": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/silver.png?raw=true",
+      "gold": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/gold.png?raw=true",
+      "cyan": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/cyan.png?raw=true",
+      "magenta": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/magenta.png?raw=true",
+      "lime": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/lime.png?raw=true",
+      "olive": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/olive.png?raw=true",
+      "maroon": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/maroon.png?raw=true",
+      "navy": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/navy.png?raw=true",
+      "teal": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/teal.png?raw=true",
+      "aqua": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/aqua.png?raw=true",
+      "violet": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/violet.png?raw=true",
+      "indigo": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/indigo.png?raw=true",
+      "turquoise": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/turquoise.png?raw=true",
+      "beige": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/beige.png?raw=true",
+      "cream": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/cream.png?raw=true",
+      "tan": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/tan.png?raw=true",
+      "lavender": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/lavender.png?raw=true",
+      "coral": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/coral.png?raw=true",
+      "burgundy": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/burgundy.png?raw=true"
+    }
+  },
   "Skyboxes": {
     "Airplane": {
-		"SkyboxBk": "73547108795893",
-		"SkyboxDn": "122241126103886",
-		"SkyboxFt": "87314139945699",
-		"SkyboxLf": "131857449903826",
-		"SkyboxRt": "95648702676347",
-		"SkyboxUp": "129898148846043"
-	},
-	"Advertisement": {
-		"SkyboxBk": "138692893170619",
-		"SkyboxDn": "123078948090248",
-		"SkyboxFt": "123241148900691",
-		"SkyboxLf": "124438096063535",
-		"SkyboxRt": "126777223324092",
-		"SkyboxUp": "90048584143567"
-	},
-	"Aurora": {
-		"SkyboxBk": "138339126956203",
-		"SkyboxDn": "113903959926304",
-		"SkyboxFt": "103264780980881",
-		"SkyboxLf": "137834626820195",
-		"SkyboxRt": "82538510612472",
-		"SkyboxUp": "107905968376682"
-	},
-	"Beautiful": {
-		"SkyboxBk": "90736047582767",
-		"SkyboxDn": "119396381142553",
-		"SkyboxFt": "123358130960817",
-		"SkyboxLf": "125352194671071",
-		"SkyboxRt": "101635202526354",
-		"SkyboxUp": "124538804693477"
-	},
-	"Black White & Red": {
-		"SkyboxBk": "83765687709522",
-		"SkyboxDn": "120483109298510",
-		"SkyboxFt": "76200520436775",
-		"SkyboxLf": "82066365625000",
-		"SkyboxRt": "135705237471434",
-		"SkyboxUp": "86779192968886"
-	},
-	"Blackhole": {
-		"SkyboxBk": "114879526955865",
-		"SkyboxDn": "115608425504889",
-		"SkyboxFt": "105210231479593",
-		"SkyboxLf": "130786932020388",
-		"SkyboxRt": "93149692440823",
-		"SkyboxUp": "109644311648647"
-	},
-	"Blue": {
-		"SkyboxBk": "82181201196075",
-		"SkyboxDn": "106139373130861",
-		"SkyboxFt": "112657506632434",
-		"SkyboxLf": "130672526775916",
-		"SkyboxRt": "82733718502295",
-		"SkyboxUp": "76130789111172"
-	},
-	"Blue 2": {
-		"SkyboxBk": "129017701457610",
-		"SkyboxDn": "72952227775873",
-		"SkyboxFt": "83388180217777",
-		"SkyboxLf": "110616665386257",
-		"SkyboxRt": "79856473634952",
-		"SkyboxUp": "110140398045573"
-	},
-	"Broken Sky": {
-		"SkyboxBk": "81628786008541",
-		"SkyboxDn": "87091408089650",
-		"SkyboxFt": "131634356881212",
-		"SkyboxLf": "103830018782494",
-		"SkyboxRt": "90294952977934",
-		"SkyboxUp": "119398861591687"
-	},
-	"Chill Gray": {
-		"SkyboxBk": "93835356175299",
-		"SkyboxDn": "124313541577723",
-		"SkyboxFt": "135070042914730",
-		"SkyboxLf": "93985108616528",
-		"SkyboxRt": "78988353701881",
-		"SkyboxUp": "111665514165992"
-	},
-	"Chill pink": {
-		"SkyboxBk": "85596947678758",
-		"SkyboxDn": "103772925919165",
-		"SkyboxFt": "118391720986211",
-		"SkyboxLf": "78620326249807",
-		"SkyboxRt": "134108375345445",
-		"SkyboxUp": "74761989159691"
-	},
-	"Chroma Key": {
-		"SkyboxBk": "100286539772977",
-		"SkyboxDn": "100286539772977",
-		"SkyboxFt": "100286539772977",
-		"SkyboxLf": "100286539772977",
-		"SkyboxRt": "100286539772977",
-		"SkyboxUP": "100286539772977"
-	},
-	"Cyan": {
-		"SkyboxBk": "80837184684047",
-		"SkyboxDn": "73325181662375",
-		"SkyboxFt": "73440579889658",
-		"SkyboxLf": "95456214807645",
-		"SkyboxRt": "111266007355360",
-		"SkyboxUP": "82123217422947"
-	},
-	"Cirno": {
-		"SkyboxBk": "74762296526939",
-		"SkyboxDn": "111623638290317",
-		"SkyboxFt": "92790595419735",
-		"SkyboxLf": "86903319097192",
-		"SkyboxRt": "134674857462994",
-		"SkyboxUP": "138590351759988"
-	},
-	"Damascus": {
-		"SkyboxBk": "137207873984129",
-		"SkyboxDn": "135790688389948",
-		"SkyboxFt": "133534703223319",
-		"SkyboxLf": "96147833182758",
-		"SkyboxRt": "115053439750900",
-		"SkyboxUP": "79506166155568"
-	},
-	"Emo": {
-		"SkyboxBk": "98311426633619",
-		"SkyboxDn": "95754954109535",
-		"SkyboxFt": "99006656516210",
-		"SkyboxLf": "104775611046454",
-		"SkyboxRt": "125620815192429",
-		"SkyboxUP": "83308078386793"
-	},
-	"Forest": {
-		"SkyboxBk": "80901901709952",
-		"SkyboxDn": "74939712249664",
-		"SkyboxFt": "133999559479292",
-		"SkyboxLf": "136202576980921",
-		"SkyboxRt": "136766624463891",
-		"SkyboxUP": "110322446125229"
-	},
-	"Glungus": {
-		"SkyboxBk": "120088843073635",
-		"SkyboxDn": "130487592425379",
-		"SkyboxFt": "122684149011174",
-		"SkyboxLf": "121517928864617",
-		"SkyboxRt": "128673436436405",
-		"SkyboxUP": "94016010490330"
-	},
-	"Goodnight": {
-		"SkyboxBk": "93590148140827",
-		"SkyboxDn": "102453743082771",
-		"SkyboxFt": "118903490011578",
-		"SkyboxLf": "126562643473125",
-		"SkyboxRt": "77446329776959",
-		"SkyboxUP": "120495452755285"
-	},
-	"Green": {
-		"SkyboxBk": "115264368956399",
-		"SkyboxDn": "71354952700666",
-		"SkyboxFt": "97012270262609",
-		"SkyboxLf": "108153789386014",
-		"SkyboxRt": "138977070344645",
-		"SkyboxUP": "128592835484394"
-	},
-	"GMS": {
-		"SkyboxBk": "122583318800143",
-		"SkyboxDn": "90814115556867",
-		"SkyboxFt": "87827624355920",
-		"SkyboxLf": "75671660263686",
-		"SkyboxRt": "92860891552128",
-		"SkyboxUP": "132666338666833"
-	},
-	"Hades": {
-		"SkyboxBk": "109091965359488",
-		"SkyboxDn": "105055639105391",
-		"SkyboxFt": "123142343765338",
-		"SkyboxLf": "108686550118324",
-		"SkyboxRt": "111787691336626",
-		"SkyboxUP": "130767374376301"
-	},
-	"Hazy": {
-		"SkyboxBk": "103910387093354",
-		"SkyboxDn": "117435385808509",
-		"SkyboxFt": "82474848638554",
-		"SkyboxLf": "111467674320984",
-		"SkyboxRt": "101359280855053",
-		"SkyboxUP": "79260041811201"
-	},
-	"Horizon": {
-		"SkyboxBk": "84472194532880",
-		"SkyboxDn": "81421570215287",
-		"SkyboxFt": "122294067632646",
-		"SkyboxLf": "80093296558373",
-		"SkyboxRt": "106132165831872",
-		"SkyboxUP": "79853361901486"
-	},
-	"Horizontal": {
-		"SkyboxBk": "95393488001564",
-		"SkyboxDn": "84045592084706",
-		"SkyboxFt": "80202755446662",
-		"SkyboxLf": "74682807483960",
-		"SkyboxRt": "118187348480699",
-		"SkyboxUP": "92293952820736"
-	},
-	"Interbox": {
-		"SkyboxBk": "74875250804271",
-		"SkyboxDn": "94560677607401",
-		"SkyboxFt": "127382829019931",
-		"SkyboxLf": "106571255279226",
-		"SkyboxRt": "99871256788841",
-		"SkyboxUP": "73397616331209"
-	},
-	"Light Blue": {
-		"SkyboxBk": "122727678920298",
-		"SkyboxDn": "109230667425614",
-		"SkyboxFt": "86616045749204",
-		"SkyboxLf": "97737748191700",
-		"SkyboxRt": "114563499690902",
-		"SkyboxUP": "130813351478114"
-	},
-	"Light pink": {
-		"SkyboxBk": "95476468795939",
-		"SkyboxDn": "76714181333169",
-		"SkyboxFt": "115429857888541",
-		"SkyboxLf": "86026430610639",
-		"SkyboxRt": "80186695497255",
-		"SkyboxUP": "100349603600606"
-	},
-	"Moonlight": {
-		"SkyboxBk": "91969695428358",
-		"SkyboxDn": "125883182632455",
-		"SkyboxFt": "81367349924480",
-		"SkyboxLf": "120849446017845",
-		"SkyboxRt": "131627315382597",
-		"SkyboxUP": "113053042424586"
-	},
-	"Neon Sky 1": {
-		"SkyboxBk": "109465370626009",
-		"SkyboxDn": "92711396893206",
-		"SkyboxFt": "104959308566115",
-		"SkyboxLf": "73559393414345",
-		"SkyboxRt": "124115400528691",
-		"SkyboxUP": "89460814686454"
-	},
-	"Neon Sky 2": {
-		"SkyboxBk": "93698222156765",
-		"SkyboxDn": "82071599862970",
-		"SkyboxFt": "92192695079999",
-		"SkyboxLf": "133706342652156",
-		"SkyboxRt": "87786051107342",
-		"SkyboxUP": "105821520001788"
-	},
-	"Nesas": {
-		"SkyboxBk": "133544697264542",
-		"SkyboxDn": "79161176449168",
-		"SkyboxFt": "129610708718668",
-		"SkyboxLf": "91336600998609",
-		"SkyboxRt": "134019086438106",
-		"SkyboxUP": "112164003040620"
-	},
-	"Night": {
-		"SkyboxBk": "100918508547013",
-		"SkyboxDn": "139263729429955",
-		"SkyboxFt": "80826733640195",
-		"SkyboxLf": "114584452759880",
-		"SkyboxRt": "117619973765121",
-		"SkyboxUP": "119947851059800"
-	},
-	"Oblivion": {
-		"SkyboxBk": "126028495725620",
-		"SkyboxDn": "115653209517145",
-		"SkyboxFt": "72081151330095",
-		"SkyboxLf": "130105475564026",
-		"SkyboxRt": "83881714922296",
-		"SkyboxUP": "130573285946564"
-	},
-	"Orange": {
-		"SkyboxBk": "94455545393770",
-		"SkyboxDn": "136060731252737",
-		"SkyboxFt": "105179817185957",
-		"SkyboxLf": "117888206872392",
-		"SkyboxRt": "72593360761022",
-		"SkyboxUP": "137051982472983"
-	},
-	"Overcast": {
-		"SkyboxBk": "104492444422288",
-		"SkyboxDn": "119285770695744",
-		"SkyboxFt": "103366247949453",
-		"SkyboxLf": "93011517808079",
-		"SkyboxRt": "127582448480235",
-		"SkyboxUP": "73127053819001"
-	},
-	"Pandora": {
-		"SkyboxBk": "128999647577261",
-		"SkyboxDn": "88223579632584",
-		"SkyboxFt": "125141801502518",
-		"SkyboxLf": "118941415742917",
-		"SkyboxRt": "94820592501019",
-		"SkyboxUP": "100494654244360"
-	},
-	"Philly": {
-		"SkyboxBk": "125196105176766",
-		"SkyboxDn": "81181692218641",
-		"SkyboxFt": "73976126621894",
-		"SkyboxLf": "104714173442338",
-		"SkyboxRt": "86553940604133",
-		"SkyboxUP": "122849628658835"
-	},
-	"Pink Sunrise": {
-		"SkyboxBk": "72832903377294",
-		"SkyboxDn": "115148441960861",
-		"SkyboxFt": "89730892670751",
-		"SkyboxLf": "116914445840077",
-		"SkyboxRt": "87100974701616",
-		"SkyboxUP": "104333511103999"
-	},
-	"posterized": {
-		"SkyboxBk": "84310783449353",
-		"SkyboxDn": "107715454631524",
-		"SkyboxFt": "132688267285334",
-		"SkyboxLf": "72886548499200",
-		"SkyboxRt": "90631442037943",
-		"SkyboxUP": "109637462578776"
-	},
-	"Purple": {
-		"SkyboxBk": "73924793697749",
-		"SkyboxDn": "87284569628644",
-		"SkyboxFt": "124466187110657",
-		"SkyboxLf": "113289771202840",
-		"SkyboxRt": "79480591606614",
-		"SkyboxUP": "99896340950201"
-	},
-	"Red": {
-		"SkyboxBk": "131890888619756",
-		"SkyboxDn": "75549741155739",
-		"SkyboxFt": "77824426118323",
-		"SkyboxLf": "88250840355335",
-		"SkyboxRt": "113825475145843",
-		"SkyboxUP": "106759841236337"
-	},
-	"sky_sunset": {
-		"SkyboxBk": "120846289752950",
-		"SkyboxDn": "73797556775963",
-		"SkyboxFt": "123480803318391",
-		"SkyboxLf": "126438439084815",
-		"SkyboxRt": "122422673300850",
-		"SkyboxUP": "126620859905248"
-	},
-	"Space Blue": {
-		"SkyboxBk": "138949297889720",
-		"SkyboxDn": "101096773572392",
-		"SkyboxFt": "77877536633414",
-		"SkyboxLf": "98421538459696",
-		"SkyboxRt": "114743751047316",
-		"SkyboxUP": "133302554132673"
-	},
-	"Spooky": {
-		"SkyboxBk": "137767578049676",
-		"SkyboxDn": "92783501556295",
-		"SkyboxFt": "127820451839412",
-		"SkyboxLf": "128689960573345",
-		"SkyboxRt": "125189702225721",
-		"SkyboxUP": "101534028974944"
-	},
-	"Sunflowers": {
-		"SkyboxBk": "114956782857108",
-		"SkyboxDn": "94053425947915",
-		"SkyboxFt": "100012571508783",
-		"SkyboxLf": "85470129538071",
-		"SkyboxRt": "85590965977413",
-		"SkyboxUP": "74755608854554"
-	},
-	"Universe": {
-		"SkyboxBk": "94602021212735",
-		"SkyboxDn": "130621824646135",
-		"SkyboxFt": "102694634144051",
-		"SkyboxLf": "89074438766201",
-		"SkyboxRt": "112088164887032",
-		"SkyboxUP": "96535121158896"
-	},
-	"Vaporwave": {
-		"SkyboxBk": "94635086479420",
-		"SkyboxDn": "137546678743168",
-		"SkyboxFt": "121887944974615",
-		"SkyboxLf": "122255845153746",
-		"SkyboxRt": "86939623081900",
-		"SkyboxUP": "132476747188812"
-	},
-	"Violet Evergarden": {
-		"SkyboxBk": "139632062874474",
-		"SkyboxDn": "104631352602731",
-		"SkyboxFt": "102987487127501",
-		"SkyboxLf": "124842265226555",
-		"SkyboxRt": "124585619669609",
-		"SkyboxUP": "76010756002592"
-	},
-	"Blackhole 2": {
-		"SkyboxBk": "105104726180993",
-		"SkyboxDn": "125385498309031",
-		"SkyboxFt": "96646304114089",
-		"SkyboxLf": "79774369796178",
-		"SkyboxRt": "94799631964682",
-		"SkyboxUP": "135317299999121"
-	},
-	"Castle grounds": {
-		"SkyboxBk": "106858358669110",
-		"SkyboxDn": "93632771131165",
-		"SkyboxFt": "117736793566323",
-		"SkyboxLf": "105315390779121",
-		"SkyboxRt": "107653257003735",
-		"SkyboxUP": "128662709498326"
-	},
-	"Clear Skies": {
-		"SkyboxBk": "91378441610573",
-		"SkyboxDn": "121441260035906",
-		"SkyboxFt": "74886122748958",
-		"SkyboxLf": "117113220227443",
-		"SkyboxRt": "79679718030516",
-		"SkyboxUP": "124668719664943"	
-	},
-	"RemRam": {
-		"SkyboxBk": "140698359884757",
-		"SkyboxDn": "89669974466703",
-		"SkyboxFt": "78895063857740",
-		"SkyboxLf": "73868069075396",
-		"SkyboxRt": "134960804641719",
-		"SkyboxUP": "107959472459772"
-	},
-	"Yumeko": {
-		"SkyboxBk": "96138743815101",
-		"SkyboxDn": "91308691824988",
-		"SkyboxFt": "91482460949668",
-		"SkyboxLf": "104574418241444",
-		"SkyboxRt": "96116896026017",
-		"SkyboxUP": "113332486282213"
-	},
-	"Dead Star Forest": {
-		"SkyboxBk": "72121494535904",
-		"SkyboxDn": "102319563262355",
-		"SkyboxFt": "93826727932716",
-		"SkyboxLf": "86642027225712",
-		"SkyboxRt": "140006158090405",
-		"SkyboxUP": "103869672702120"
-	},
-	"Fade Blue Sky": {
-		"SkyboxBk": "87984570756163",
-		"SkyboxDn": "78909155342128",
-		"SkyboxFt": "115631198065665",
-		"SkyboxLf": "82248221339792",
-		"SkyboxRt": "133457151245754",
-		"SkyboxUP": "104160367997013"
-	},
-	"Apple Gradient": {
-		"SkyboxBk": "114316162230029",
-		"SkyboxDn": "71319690884064",
-		"SkyboxFt": "75960170499764",
-		"SkyboxLf": "114968494499843",
-		"SkyboxRt": "86790562570673",
-		"SkyboxUP": "92791972941858"
-	},
-	"Berry Lipstick Gradient": {
-		"SkyboxBk": "79196761653594",
-		"SkyboxDn": "80321112817083",
-		"SkyboxFt": "118223392157940",
-		"SkyboxLf": "120334333970024",
-		"SkyboxRt": "129998283839856",
-		"SkyboxUP": "70408433996509"
-	},
-	"Blurple Gradient": {
-		"SkyboxBk": "102439697727815",
-		"SkyboxDn": "103990213828509",
-		"SkyboxFt": "126280654077662",
-		"SkyboxLf": "128393579043132",
-		"SkyboxRt": "86752441357923",
-		"SkyboxUP": "102520403260034"
-	},
-	"Choco Mint Gradient": {
-		"SkyboxBk": "71313620324169",
-		"SkyboxDn": "94833387119930",
-		"SkyboxFt": "95098437889469",
-		"SkyboxLf": "98440836487445",
-		"SkyboxRt": "77416364885967",
-		"SkyboxUP": "133629276761591"
-	},
-	"Coastal Algae Gradient": {
-		"SkyboxBk": "140609974149093",
-		"SkyboxDn": "90655817506060",
-		"SkyboxFt": "117084508847233",
-		"SkyboxLf": "116879269372035",
-		"SkyboxRt": "137444001252666",
-		"SkyboxUP": "106470609441332"
-	},
-	"Mikgazer Gradient": {
-		"SkyboxBk": "85947683456382",
-		"SkyboxDn": "84084788134412",
-		"SkyboxFt": "107417809363820",
-		"SkyboxLf": "107699326421590",
-		"SkyboxRt": "99070217979170",
-		"SkyboxUP": "75837874309037"
-	},
-	"Orange popsicle Gradient": {
-		"SkyboxBk": "74920308154241",
-		"SkyboxDn": "111981752203093",
-		"SkyboxFt": "111745073803249",
-		"SkyboxLf": "91415201556534",
-		"SkyboxRt": "131783062746385",
-		"SkyboxUP": "79677631663862"
-	},
-	"Pastel Gradient": {
-		"SkyboxBk": "125654369191644",
-		"SkyboxDn": "108170615414134",
-		"SkyboxFt": "136457589282129",
-		"SkyboxLf": "121913813736100",
-		"SkyboxRt": "109362483438496",
-		"SkyboxUP": "137403625050828"
-	},
-	"Rainbox Stripes": {
-		"SkyboxBk": "93423351142638",
-		"SkyboxDn": "113257233229801",
-		"SkyboxFt": "115452038059644",
-		"SkyboxLf": "120116367735014",
-		"SkyboxRt": "120390283315496",
-		"SkyboxUP": "114462467659070"
-	},
-	"Strawberry Mint Gradient": {
-		"SkyboxBk": "135101815200538",
-		"SkyboxDn": "89556729827488",
-		"SkyboxFt": "85684320506481",
-		"SkyboxLf": "118239841658414",
-		"SkyboxRt": "95133429619131",
-		"SkyboxUP": "104258944832654"
-	},
-	"Stripped socks blue": {
-		"SkyboxBk": "77389289542594",
-		"SkyboxDn": "130595937441966",
-		"SkyboxFt": "86832821714939",
-		"SkyboxLf": "74007610072670",
-		"SkyboxRt": "136713694375460",
-		"SkyboxUP": "81534633432338"
-	},
-	"Stripped socks pink": {
-		"SkyboxBk": "121738578328233",
-		"SkyboxDn": "102474175368066",
-		"SkyboxFt": "89409036280009",
-		"SkyboxLf": "139239911630436",
-		"SkyboxRt": "116934521995668",
-		"SkyboxUP": "106946806395976"
-	},
-	"Grimnight": {
-		"SkyboxBk": "136556006511509",
-		"SkyboxDn": "89856395371965",
-		"SkyboxFt": "92650911238512",
-		"SkyboxLf": "116850165173626",
-		"SkyboxRt": "124882470605063",
-		"SkyboxUP": "139856667307961"
-	},
-	"Northern Lights": {
-		"SkyboxBk": "127505217737327",
-		"SkyboxDn": "116691368217061",
-		"SkyboxFt": "81360225358665",
-		"SkyboxLf": "119465362876475",
-		"SkyboxRt": "71250101231083",
-		"SkyboxUP": "89796518646675"
-	},
-	"Peacefull Morning": {
-		"SkyboxBk": "135005512523938",
-		"SkyboxDn": "127662335423893",
-		"SkyboxFt": "79378711980854",
-		"SkyboxLf": "77482503353398",
-		"SkyboxRt": "108981066645432",
-		"SkyboxUP": "120552429016087"
-	},
-	"Pumpkin Hill": {
-		"SkyboxBk": "135005512523938",
-		"SkyboxDn": "127662335423893",
-		"SkyboxFt": "79378711980854",
-		"SkyboxLf": "77482503353398",
-		"SkyboxRt": "108981066645432",
-		"SkyboxUP": "120552429016087"
-	},
-	"Purple Nebula": {
-		"SkyboxBk": "130889036503079",
-		"SkyboxDn": "132469477304685",
-		"SkyboxFt": "82899701930696",
-		"SkyboxLf": "90989559107047",
-		"SkyboxRt": "125811044267041",
-		"SkyboxUP": "122890410169804"
-	},
-	"Rocks 1": {
-		"SkyboxBk": "102379564898452",
-		"SkyboxDn": "139127629307981",
-		"SkyboxFt": "101642650576342",
-		"SkyboxLf": "116675331231534",
-		"SkyboxRt": "75457312053318",
-		"SkyboxUP": "129943505569790"
-	},
-	"Rocks 2": {
-		"SkyboxBk": "121381382784797",
-		"SkyboxDn": "120505417722659",
-		"SkyboxFt": "132575887335522",
-		"SkyboxLf": "72176676283275",
-		"SkyboxRt": "130624790311325",
-		"SkyboxUP": "86909034168743"
-	},
-	"Shiverfrost": {
-		"SkyboxBk": "91437530334118",
-		"SkyboxDn": "125132954905595",
-		"SkyboxFt": "87700886149196",
-		"SkyboxLf": "140533311428649",
-		"SkyboxRt": "85260121078056",
-		"SkyboxUP": "119992457840474"
-	},
-	"Disaster": {
-		"SkyboxBk": "70599573542684",
-		"SkyboxDn": "85926817101179",
-		"SkyboxFt": "92534720286142",
-		"SkyboxLf": "105182129845985",
-		"SkyboxRt": "106170214500482",
-		"SkyboxUP": "94676913711931"
-	},
-	"Nibiru_bl": {
-		"SkyboxBk": "116640628388038",
-		"SkyboxDn": "114966384634980",
-		"SkyboxFt": "108800895441970",
-		"SkyboxLf": "84910650412189",
-		"SkyboxRt": "131615338667981",
-		"SkyboxUP": "115031643846156"
-	},
-	"Purple 2": {
-		"SkyboxBk": "99243807606271",
-		"SkyboxDn": "77171229773233",
-		"SkyboxFt": "104812607308984",
-		"SkyboxLf": "85403043887199",
-		"SkyboxRt": "124976026726289",
-		"SkyboxUP": "112216675963887"
-	},
-	"Utter East": {
-		"SkyboxBk": "135107644416383",
-		"SkyboxDn": "89915599913546",
-		"SkyboxFt": "100247274801351",
-		"SkyboxLf": "106712826703279",
-		"SkyboxRt": "114145369798978",
-		"SkyboxUP": "117854984028729"
-	},
-	"Whomp Fortress": {
-		"SkyboxBk": "74425072943752",
-		"SkyboxDn": "111071018695875",
-		"SkyboxFt": "116612487359518",
-		"SkyboxLf": "134560024286794",
-		"SkyboxRt": "138489453144876",
-		"SkyboxUP": "73930419982083"
-	},
-	"Winterness": {
-		"SkyboxBk": "132925977332520",
-		"SkyboxDn": "81443080640995",
-		"SkyboxFt": "131179843166733",
-		"SkyboxLf": "133010053158683",
-		"SkyboxRt": "88760737531208",
-		"SkyboxUP": "114312644906946"
-	},
-	"Whales": {
-		"SkyboxBk": "108683039959071",
-		"SkyboxDn": "91278785379378",
-		"SkyboxFt": "105872825973301",
-		"SkyboxLf": "84231018929136",
-		"SkyboxRt": "137303937730114",
-		"SkyboxUP": "94631685718406"
-	},
-	"marisa_box": {
-		"SkyboxBk": "130164010973325",
-		"SkyboxDn": "88670515643916",
-		"SkyboxFt": "115384279495120",
-		"SkyboxLf": "110978567346125",
-		"SkyboxRt": "115685472548919",
-		"SkyboxUP": "81354409061919"
-	},
-	"Rainbow Gradient": {
-		"SkyboxBk": "73131331581182",
-		"SkyboxDn": "83206077558158",
-		"SkyboxFt": "92306149770480",
-		"SkyboxLf": "115930128088191",
-		"SkyboxRt": "77067806496664",
-		"SkyboxUP": "126777959946135"
-	},
-	"Red Fish": {
-		"SkyboxBk": "126915339998994",
-		"SkyboxDn": "116473958053203",
-		"SkyboxFt": "91181413775637",
-		"SkyboxLf": "98029475631582",
-		"SkyboxRt": "128049640837803",
-		"SkyboxUP": "128215567265710"
-	},
-	"SFOTH": {
-		"SkyboxBk": "132012116914536",
-		"SkyboxDn": "138998248173409",
-		"SkyboxFt": "106331975843829",
-		"SkyboxLf": "136320632593472",
-		"SkyboxRt": "96431537755214",
-		"SkyboxUP": "127246185063616"
-	},
-	"sky2006": {
-		"SkyboxBk": "131328244549361",
-		"SkyboxDn": "114203025178095",
-		"SkyboxFt": "121596562960640",
-		"SkyboxLf": "99805634761262",
-		"SkyboxRt": "72645466580459",
-		"SkyboxUP": "107818992094722"
-	},
-	"Tenkobox": {
-		"SkyboxBk": "70589196561590",
-		"SkyboxDn": "131625458848417",
-		"SkyboxFt": "116423396984358",
-		"SkyboxLf": "110027809487856",
-		"SkyboxRt": "102169073552538",
-		"SkyboxUP": "96172937036606"
-	},
-	"Underwater": {
-		"SkyboxBk": "107220210166167",
-		"SkyboxDn": "120331367598175",
-		"SkyboxFt": "97335578412517",
-		"SkyboxLf": "72020524872835",
-		"SkyboxRt": "99966208838590",
-		"SkyboxUP": "107673686685770"
-	},
-	"Wackybox": {
-		"SkyboxBk": "127187188135902",
-		"SkyboxDn": "124437962019004",
-		"SkyboxFt": "88070315672092",
-		"SkyboxLf": "117513052037884",
-		"SkyboxRt": "119561823338752",
-		"SkyboxUP": "70807437403604"
-	},
-	"Gradient 1": {
-		"SkyboxBk": "135829586091603",
-		"SkyboxDn": "86726757473186",
-		"SkyboxFt": "73443123094514",
-		"SkyboxLf": "138283866531131",
-		"SkyboxRt": "71030252933255",
-		"SkyboxUP": "114301643129799"
-	},
-	"Gradient 2": {
-		"SkyboxBk": "94371308274982",
-		"SkyboxDn": "94358811210698",
-		"SkyboxFt": "110895939419633",
-		"SkyboxLf": "136132227777862",
-		"SkyboxRt": "121564535990427",
-		"SkyboxUP": "113607288706133"
-	},
-	"Waterfall": {
-		"SkyboxBk": "108222002838122",
-		"SkyboxDn": "84671669495038",
-		"SkyboxFt": "70490780507889",
-		"SkyboxLf": "82639016420549",
-		"SkyboxRt": "91033869259841",
-		"SkyboxUp": "81625444695528"
+      "SkyboxBk": "73547108795893",
+      "SkyboxDn": "122241126103886",
+      "SkyboxFt": "87314139945699",
+      "SkyboxLf": "131857449903826",
+      "SkyboxRt": "95648702676347",
+      "SkyboxUp": "129898148846043"
+    },
+    "Advertisement": {
+      "SkyboxBk": "138692893170619",
+      "SkyboxDn": "123078948090248",
+      "SkyboxFt": "123241148900691",
+      "SkyboxLf": "124438096063535",
+      "SkyboxRt": "126777223324092",
+      "SkyboxUp": "90048584143567"
+    },
+    "Aurora": {
+      "SkyboxBk": "138339126956203",
+      "SkyboxDn": "113903959926304",
+      "SkyboxFt": "103264780980881",
+      "SkyboxLf": "137834626820195",
+      "SkyboxRt": "82538510612472",
+      "SkyboxUp": "107905968376682"
+    },
+    "Beautiful": {
+      "SkyboxBk": "90736047582767",
+      "SkyboxDn": "119396381142553",
+      "SkyboxFt": "123358130960817",
+      "SkyboxLf": "125352194671071",
+      "SkyboxRt": "101635202526354",
+      "SkyboxUp": "124538804693477"
+    },
+    "Black White & Red": {
+      "SkyboxBk": "83765687709522",
+      "SkyboxDn": "120483109298510",
+      "SkyboxFt": "76200520436775",
+      "SkyboxLf": "82066365625000",
+      "SkyboxRt": "135705237471434",
+      "SkyboxUp": "86779192968886"
+    },
+    "Blackhole": {
+      "SkyboxBk": "114879526955865",
+      "SkyboxDn": "115608425504889",
+      "SkyboxFt": "105210231479593",
+      "SkyboxLf": "130786932020388",
+      "SkyboxRt": "93149692440823",
+      "SkyboxUp": "109644311648647"
+    },
+    "Blue": {
+      "SkyboxBk": "82181201196075",
+      "SkyboxDn": "106139373130861",
+      "SkyboxFt": "112657506632434",
+      "SkyboxLf": "130672526775916",
+      "SkyboxRt": "82733718502295",
+      "SkyboxUp": "76130789111172"
+    },
+    "Blue 2": {
+      "SkyboxBk": "129017701457610",
+      "SkyboxDn": "72952227775873",
+      "SkyboxFt": "83388180217777",
+      "SkyboxLf": "110616665386257",
+      "SkyboxRt": "79856473634952",
+      "SkyboxUp": "110140398045573"
+    },
+    "Broken Sky": {
+      "SkyboxBk": "81628786008541",
+      "SkyboxDn": "87091408089650",
+      "SkyboxFt": "131634356881212",
+      "SkyboxLf": "103830018782494",
+      "SkyboxRt": "90294952977934",
+      "SkyboxUp": "119398861591687"
+    },
+    "Chill Gray": {
+      "SkyboxBk": "93835356175299",
+      "SkyboxDn": "124313541577723",
+      "SkyboxFt": "135070042914730",
+      "SkyboxLf": "93985108616528",
+      "SkyboxRt": "78988353701881",
+      "SkyboxUp": "111665514165992"
+    },
+    "Chill pink": {
+      "SkyboxBk": "85596947678758",
+      "SkyboxDn": "103772925919165",
+      "SkyboxFt": "118391720986211",
+      "SkyboxLf": "78620326249807",
+      "SkyboxRt": "134108375345445",
+      "SkyboxUp": "74761989159691"
+    },
+    "Chroma Key": {
+      "SkyboxBk": "100286539772977",
+      "SkyboxDn": "100286539772977",
+      "SkyboxFt": "100286539772977",
+      "SkyboxLf": "100286539772977",
+      "SkyboxRt": "100286539772977",
+      "SkyboxUP": "100286539772977"
+    },
+    "Cyan": {
+      "SkyboxBk": "80837184684047",
+      "SkyboxDn": "73325181662375",
+      "SkyboxFt": "73440579889658",
+      "SkyboxLf": "95456214807645",
+      "SkyboxRt": "111266007355360",
+      "SkyboxUP": "82123217422947"
+    },
+    "Cirno": {
+      "SkyboxBk": "74762296526939",
+      "SkyboxDn": "111623638290317",
+      "SkyboxFt": "92790595419735",
+      "SkyboxLf": "86903319097192",
+      "SkyboxRt": "134674857462994",
+      "SkyboxUP": "138590351759988"
+    },
+    "Damascus": {
+      "SkyboxBk": "137207873984129",
+      "SkyboxDn": "135790688389948",
+      "SkyboxFt": "133534703223319",
+      "SkyboxLf": "96147833182758",
+      "SkyboxRt": "115053439750900",
+      "SkyboxUP": "79506166155568"
+    },
+    "Emo": {
+      "SkyboxBk": "98311426633619",
+      "SkyboxDn": "95754954109535",
+      "SkyboxFt": "99006656516210",
+      "SkyboxLf": "104775611046454",
+      "SkyboxRt": "125620815192429",
+      "SkyboxUP": "83308078386793"
+    },
+    "Forest": {
+      "SkyboxBk": "80901901709952",
+      "SkyboxDn": "74939712249664",
+      "SkyboxFt": "133999559479292",
+      "SkyboxLf": "136202576980921",
+      "SkyboxRt": "136766624463891",
+      "SkyboxUP": "110322446125229"
+    },
+    "Glungus": {
+      "SkyboxBk": "120088843073635",
+      "SkyboxDn": "130487592425379",
+      "SkyboxFt": "122684149011174",
+      "SkyboxLf": "121517928864617",
+      "SkyboxRt": "128673436436405",
+      "SkyboxUP": "94016010490330"
+    },
+    "Goodnight": {
+      "SkyboxBk": "93590148140827",
+      "SkyboxDn": "102453743082771",
+      "SkyboxFt": "118903490011578",
+      "SkyboxLf": "126562643473125",
+      "SkyboxRt": "77446329776959",
+      "SkyboxUP": "120495452755285"
+    },
+    "Green": {
+      "SkyboxBk": "115264368956399",
+      "SkyboxDn": "71354952700666",
+      "SkyboxFt": "97012270262609",
+      "SkyboxLf": "108153789386014",
+      "SkyboxRt": "138977070344645",
+      "SkyboxUP": "128592835484394"
+    },
+    "GMS": {
+      "SkyboxBk": "122583318800143",
+      "SkyboxDn": "90814115556867",
+      "SkyboxFt": "87827624355920",
+      "SkyboxLf": "75671660263686",
+      "SkyboxRt": "92860891552128",
+      "SkyboxUP": "132666338666833"
+    },
+    "Hades": {
+      "SkyboxBk": "109091965359488",
+      "SkyboxDn": "105055639105391",
+      "SkyboxFt": "123142343765338",
+      "SkyboxLf": "108686550118324",
+      "SkyboxRt": "111787691336626",
+      "SkyboxUP": "130767374376301"
+    },
+    "Hazy": {
+      "SkyboxBk": "103910387093354",
+      "SkyboxDn": "117435385808509",
+      "SkyboxFt": "82474848638554",
+      "SkyboxLf": "111467674320984",
+      "SkyboxRt": "101359280855053",
+      "SkyboxUP": "79260041811201"
+    },
+    "Horizon": {
+      "SkyboxBk": "84472194532880",
+      "SkyboxDn": "81421570215287",
+      "SkyboxFt": "122294067632646",
+      "SkyboxLf": "80093296558373",
+      "SkyboxRt": "106132165831872",
+      "SkyboxUP": "79853361901486"
+    },
+    "Horizontal": {
+      "SkyboxBk": "95393488001564",
+      "SkyboxDn": "84045592084706",
+      "SkyboxFt": "80202755446662",
+      "SkyboxLf": "74682807483960",
+      "SkyboxRt": "118187348480699",
+      "SkyboxUP": "92293952820736"
+    },
+    "Interbox": {
+      "SkyboxBk": "74875250804271",
+      "SkyboxDn": "94560677607401",
+      "SkyboxFt": "127382829019931",
+      "SkyboxLf": "106571255279226",
+      "SkyboxRt": "99871256788841",
+      "SkyboxUP": "73397616331209"
+    },
+    "Light Blue": {
+      "SkyboxBk": "122727678920298",
+      "SkyboxDn": "109230667425614",
+      "SkyboxFt": "86616045749204",
+      "SkyboxLf": "97737748191700",
+      "SkyboxRt": "114563499690902",
+      "SkyboxUP": "130813351478114"
+    },
+    "Light pink": {
+      "SkyboxBk": "95476468795939",
+      "SkyboxDn": "76714181333169",
+      "SkyboxFt": "115429857888541",
+      "SkyboxLf": "86026430610639",
+      "SkyboxRt": "80186695497255",
+      "SkyboxUP": "100349603600606"
+    },
+    "Moonlight": {
+      "SkyboxBk": "91969695428358",
+      "SkyboxDn": "125883182632455",
+      "SkyboxFt": "81367349924480",
+      "SkyboxLf": "120849446017845",
+      "SkyboxRt": "131627315382597",
+      "SkyboxUP": "113053042424586"
+    },
+    "Neon Sky 1": {
+      "SkyboxBk": "109465370626009",
+      "SkyboxDn": "92711396893206",
+      "SkyboxFt": "104959308566115",
+      "SkyboxLf": "73559393414345",
+      "SkyboxRt": "124115400528691",
+      "SkyboxUP": "89460814686454"
+    },
+    "Neon Sky 2": {
+      "SkyboxBk": "93698222156765",
+      "SkyboxDn": "82071599862970",
+      "SkyboxFt": "92192695079999",
+      "SkyboxLf": "133706342652156",
+      "SkyboxRt": "87786051107342",
+      "SkyboxUP": "105821520001788"
+    },
+    "Nesas": {
+      "SkyboxBk": "133544697264542",
+      "SkyboxDn": "79161176449168",
+      "SkyboxFt": "129610708718668",
+      "SkyboxLf": "91336600998609",
+      "SkyboxRt": "134019086438106",
+      "SkyboxUP": "112164003040620"
+    },
+    "Night": {
+      "SkyboxBk": "100918508547013",
+      "SkyboxDn": "139263729429955",
+      "SkyboxFt": "80826733640195",
+      "SkyboxLf": "114584452759880",
+      "SkyboxRt": "117619973765121",
+      "SkyboxUP": "119947851059800"
+    },
+    "Oblivion": {
+      "SkyboxBk": "126028495725620",
+      "SkyboxDn": "115653209517145",
+      "SkyboxFt": "72081151330095",
+      "SkyboxLf": "130105475564026",
+      "SkyboxRt": "83881714922296",
+      "SkyboxUP": "130573285946564"
+    },
+    "Orange": {
+      "SkyboxBk": "94455545393770",
+      "SkyboxDn": "136060731252737",
+      "SkyboxFt": "105179817185957",
+      "SkyboxLf": "117888206872392",
+      "SkyboxRt": "72593360761022",
+      "SkyboxUP": "137051982472983"
+    },
+    "Overcast": {
+      "SkyboxBk": "104492444422288",
+      "SkyboxDn": "119285770695744",
+      "SkyboxFt": "103366247949453",
+      "SkyboxLf": "93011517808079",
+      "SkyboxRt": "127582448480235",
+      "SkyboxUP": "73127053819001"
+    },
+    "Pandora": {
+      "SkyboxBk": "128999647577261",
+      "SkyboxDn": "88223579632584",
+      "SkyboxFt": "125141801502518",
+      "SkyboxLf": "118941415742917",
+      "SkyboxRt": "94820592501019",
+      "SkyboxUP": "100494654244360"
+    },
+    "Philly": {
+      "SkyboxBk": "125196105176766",
+      "SkyboxDn": "81181692218641",
+      "SkyboxFt": "73976126621894",
+      "SkyboxLf": "104714173442338",
+      "SkyboxRt": "86553940604133",
+      "SkyboxUP": "122849628658835"
+    },
+    "Pink Sunrise": {
+      "SkyboxBk": "72832903377294",
+      "SkyboxDn": "115148441960861",
+      "SkyboxFt": "89730892670751",
+      "SkyboxLf": "116914445840077",
+      "SkyboxRt": "87100974701616",
+      "SkyboxUP": "104333511103999"
+    },
+    "posterized": {
+      "SkyboxBk": "84310783449353",
+      "SkyboxDn": "107715454631524",
+      "SkyboxFt": "132688267285334",
+      "SkyboxLf": "72886548499200",
+      "SkyboxRt": "90631442037943",
+      "SkyboxUP": "109637462578776"
+    },
+    "Purple": {
+      "SkyboxBk": "73924793697749",
+      "SkyboxDn": "87284569628644",
+      "SkyboxFt": "124466187110657",
+      "SkyboxLf": "113289771202840",
+      "SkyboxRt": "79480591606614",
+      "SkyboxUP": "99896340950201"
+    },
+    "Red": {
+      "SkyboxBk": "131890888619756",
+      "SkyboxDn": "75549741155739",
+      "SkyboxFt": "77824426118323",
+      "SkyboxLf": "88250840355335",
+      "SkyboxRt": "113825475145843",
+      "SkyboxUP": "106759841236337"
+    },
+    "sky_sunset": {
+      "SkyboxBk": "120846289752950",
+      "SkyboxDn": "73797556775963",
+      "SkyboxFt": "123480803318391",
+      "SkyboxLf": "126438439084815",
+      "SkyboxRt": "122422673300850",
+      "SkyboxUP": "126620859905248"
+    },
+    "Space Blue": {
+      "SkyboxBk": "138949297889720",
+      "SkyboxDn": "101096773572392",
+      "SkyboxFt": "77877536633414",
+      "SkyboxLf": "98421538459696",
+      "SkyboxRt": "114743751047316",
+      "SkyboxUP": "133302554132673"
+    },
+    "Spooky": {
+      "SkyboxBk": "137767578049676",
+      "SkyboxDn": "92783501556295",
+      "SkyboxFt": "127820451839412",
+      "SkyboxLf": "128689960573345",
+      "SkyboxRt": "125189702225721",
+      "SkyboxUP": "101534028974944"
+    },
+    "Sunflowers": {
+      "SkyboxBk": "114956782857108",
+      "SkyboxDn": "94053425947915",
+      "SkyboxFt": "100012571508783",
+      "SkyboxLf": "85470129538071",
+      "SkyboxRt": "85590965977413",
+      "SkyboxUP": "74755608854554"
+    },
+    "Universe": {
+      "SkyboxBk": "94602021212735",
+      "SkyboxDn": "130621824646135",
+      "SkyboxFt": "102694634144051",
+      "SkyboxLf": "89074438766201",
+      "SkyboxRt": "112088164887032",
+      "SkyboxUP": "96535121158896"
+    },
+    "Vaporwave": {
+      "SkyboxBk": "94635086479420",
+      "SkyboxDn": "137546678743168",
+      "SkyboxFt": "121887944974615",
+      "SkyboxLf": "122255845153746",
+      "SkyboxRt": "86939623081900",
+      "SkyboxUP": "132476747188812"
+    },
+    "Violet Evergarden": {
+      "SkyboxBk": "139632062874474",
+      "SkyboxDn": "104631352602731",
+      "SkyboxFt": "102987487127501",
+      "SkyboxLf": "124842265226555",
+      "SkyboxRt": "124585619669609",
+      "SkyboxUP": "76010756002592"
+    },
+    "Blackhole 2": {
+      "SkyboxBk": "105104726180993",
+      "SkyboxDn": "125385498309031",
+      "SkyboxFt": "96646304114089",
+      "SkyboxLf": "79774369796178",
+      "SkyboxRt": "94799631964682",
+      "SkyboxUP": "135317299999121"
+    },
+    "Castle grounds": {
+      "SkyboxBk": "106858358669110",
+      "SkyboxDn": "93632771131165",
+      "SkyboxFt": "117736793566323",
+      "SkyboxLf": "105315390779121",
+      "SkyboxRt": "107653257003735",
+      "SkyboxUP": "128662709498326"
+    },
+    "Clear Skies": {
+      "SkyboxBk": "91378441610573",
+      "SkyboxDn": "121441260035906",
+      "SkyboxFt": "74886122748958",
+      "SkyboxLf": "117113220227443",
+      "SkyboxRt": "79679718030516",
+      "SkyboxUP": "124668719664943"
+    },
+    "RemRam": {
+      "SkyboxBk": "140698359884757",
+      "SkyboxDn": "89669974466703",
+      "SkyboxFt": "78895063857740",
+      "SkyboxLf": "73868069075396",
+      "SkyboxRt": "134960804641719",
+      "SkyboxUP": "107959472459772"
+    },
+    "Yumeko": {
+      "SkyboxBk": "96138743815101",
+      "SkyboxDn": "91308691824988",
+      "SkyboxFt": "91482460949668",
+      "SkyboxLf": "104574418241444",
+      "SkyboxRt": "96116896026017",
+      "SkyboxUP": "113332486282213"
+    },
+    "Dead Star Forest": {
+      "SkyboxBk": "72121494535904",
+      "SkyboxDn": "102319563262355",
+      "SkyboxFt": "93826727932716",
+      "SkyboxLf": "86642027225712",
+      "SkyboxRt": "140006158090405",
+      "SkyboxUP": "103869672702120"
+    },
+    "Fade Blue Sky": {
+      "SkyboxBk": "87984570756163",
+      "SkyboxDn": "78909155342128",
+      "SkyboxFt": "115631198065665",
+      "SkyboxLf": "82248221339792",
+      "SkyboxRt": "133457151245754",
+      "SkyboxUP": "104160367997013"
+    },
+    "Apple Gradient": {
+      "SkyboxBk": "114316162230029",
+      "SkyboxDn": "71319690884064",
+      "SkyboxFt": "75960170499764",
+      "SkyboxLf": "114968494499843",
+      "SkyboxRt": "86790562570673",
+      "SkyboxUP": "92791972941858"
+    },
+    "Berry Lipstick Gradient": {
+      "SkyboxBk": "79196761653594",
+      "SkyboxDn": "80321112817083",
+      "SkyboxFt": "118223392157940",
+      "SkyboxLf": "120334333970024",
+      "SkyboxRt": "129998283839856",
+      "SkyboxUP": "70408433996509"
+    },
+    "Blurple Gradient": {
+      "SkyboxBk": "102439697727815",
+      "SkyboxDn": "103990213828509",
+      "SkyboxFt": "126280654077662",
+      "SkyboxLf": "128393579043132",
+      "SkyboxRt": "86752441357923",
+      "SkyboxUP": "102520403260034"
+    },
+    "Choco Mint Gradient": {
+      "SkyboxBk": "71313620324169",
+      "SkyboxDn": "94833387119930",
+      "SkyboxFt": "95098437889469",
+      "SkyboxLf": "98440836487445",
+      "SkyboxRt": "77416364885967",
+      "SkyboxUP": "133629276761591"
+    },
+    "Coastal Algae Gradient": {
+      "SkyboxBk": "140609974149093",
+      "SkyboxDn": "90655817506060",
+      "SkyboxFt": "117084508847233",
+      "SkyboxLf": "116879269372035",
+      "SkyboxRt": "137444001252666",
+      "SkyboxUP": "106470609441332"
+    },
+    "Mikgazer Gradient": {
+      "SkyboxBk": "85947683456382",
+      "SkyboxDn": "84084788134412",
+      "SkyboxFt": "107417809363820",
+      "SkyboxLf": "107699326421590",
+      "SkyboxRt": "99070217979170",
+      "SkyboxUP": "75837874309037"
+    },
+    "Orange popsicle Gradient": {
+      "SkyboxBk": "74920308154241",
+      "SkyboxDn": "111981752203093",
+      "SkyboxFt": "111745073803249",
+      "SkyboxLf": "91415201556534",
+      "SkyboxRt": "131783062746385",
+      "SkyboxUP": "79677631663862"
+    },
+    "Pastel Gradient": {
+      "SkyboxBk": "125654369191644",
+      "SkyboxDn": "108170615414134",
+      "SkyboxFt": "136457589282129",
+      "SkyboxLf": "121913813736100",
+      "SkyboxRt": "109362483438496",
+      "SkyboxUP": "137403625050828"
+    },
+    "Rainbox Stripes": {
+      "SkyboxBk": "93423351142638",
+      "SkyboxDn": "113257233229801",
+      "SkyboxFt": "115452038059644",
+      "SkyboxLf": "120116367735014",
+      "SkyboxRt": "120390283315496",
+      "SkyboxUP": "114462467659070"
+    },
+    "Strawberry Mint Gradient": {
+      "SkyboxBk": "135101815200538",
+      "SkyboxDn": "89556729827488",
+      "SkyboxFt": "85684320506481",
+      "SkyboxLf": "118239841658414",
+      "SkyboxRt": "95133429619131",
+      "SkyboxUP": "104258944832654"
+    },
+    "Stripped socks blue": {
+      "SkyboxBk": "77389289542594",
+      "SkyboxDn": "130595937441966",
+      "SkyboxFt": "86832821714939",
+      "SkyboxLf": "74007610072670",
+      "SkyboxRt": "136713694375460",
+      "SkyboxUP": "81534633432338"
+    },
+    "Stripped socks pink": {
+      "SkyboxBk": "121738578328233",
+      "SkyboxDn": "102474175368066",
+      "SkyboxFt": "89409036280009",
+      "SkyboxLf": "139239911630436",
+      "SkyboxRt": "116934521995668",
+      "SkyboxUP": "106946806395976"
+    },
+    "Grimnight": {
+      "SkyboxBk": "136556006511509",
+      "SkyboxDn": "89856395371965",
+      "SkyboxFt": "92650911238512",
+      "SkyboxLf": "116850165173626",
+      "SkyboxRt": "124882470605063",
+      "SkyboxUP": "139856667307961"
+    },
+    "Northern Lights": {
+      "SkyboxBk": "127505217737327",
+      "SkyboxDn": "116691368217061",
+      "SkyboxFt": "81360225358665",
+      "SkyboxLf": "119465362876475",
+      "SkyboxRt": "71250101231083",
+      "SkyboxUP": "89796518646675"
+    },
+    "Peacefull Morning": {
+      "SkyboxBk": "135005512523938",
+      "SkyboxDn": "127662335423893",
+      "SkyboxFt": "79378711980854",
+      "SkyboxLf": "77482503353398",
+      "SkyboxRt": "108981066645432",
+      "SkyboxUP": "120552429016087"
+    },
+    "Pumpkin Hill": {
+      "SkyboxBk": "135005512523938",
+      "SkyboxDn": "127662335423893",
+      "SkyboxFt": "79378711980854",
+      "SkyboxLf": "77482503353398",
+      "SkyboxRt": "108981066645432",
+      "SkyboxUP": "120552429016087"
+    },
+    "Purple Nebula": {
+      "SkyboxBk": "130889036503079",
+      "SkyboxDn": "132469477304685",
+      "SkyboxFt": "82899701930696",
+      "SkyboxLf": "90989559107047",
+      "SkyboxRt": "125811044267041",
+      "SkyboxUP": "122890410169804"
+    },
+    "Rocks 1": {
+      "SkyboxBk": "102379564898452",
+      "SkyboxDn": "139127629307981",
+      "SkyboxFt": "101642650576342",
+      "SkyboxLf": "116675331231534",
+      "SkyboxRt": "75457312053318",
+      "SkyboxUP": "129943505569790"
+    },
+    "Rocks 2": {
+      "SkyboxBk": "121381382784797",
+      "SkyboxDn": "120505417722659",
+      "SkyboxFt": "132575887335522",
+      "SkyboxLf": "72176676283275",
+      "SkyboxRt": "130624790311325",
+      "SkyboxUP": "86909034168743"
+    },
+    "Shiverfrost": {
+      "SkyboxBk": "91437530334118",
+      "SkyboxDn": "125132954905595",
+      "SkyboxFt": "87700886149196",
+      "SkyboxLf": "140533311428649",
+      "SkyboxRt": "85260121078056",
+      "SkyboxUP": "119992457840474"
+    },
+    "Disaster": {
+      "SkyboxBk": "70599573542684",
+      "SkyboxDn": "85926817101179",
+      "SkyboxFt": "92534720286142",
+      "SkyboxLf": "105182129845985",
+      "SkyboxRt": "106170214500482",
+      "SkyboxUP": "94676913711931"
+    },
+    "Nibiru_bl": {
+      "SkyboxBk": "116640628388038",
+      "SkyboxDn": "114966384634980",
+      "SkyboxFt": "108800895441970",
+      "SkyboxLf": "84910650412189",
+      "SkyboxRt": "131615338667981",
+      "SkyboxUP": "115031643846156"
+    },
+    "Purple 2": {
+      "SkyboxBk": "99243807606271",
+      "SkyboxDn": "77171229773233",
+      "SkyboxFt": "104812607308984",
+      "SkyboxLf": "85403043887199",
+      "SkyboxRt": "124976026726289",
+      "SkyboxUP": "112216675963887"
+    },
+    "Utter East": {
+      "SkyboxBk": "135107644416383",
+      "SkyboxDn": "89915599913546",
+      "SkyboxFt": "100247274801351",
+      "SkyboxLf": "106712826703279",
+      "SkyboxRt": "114145369798978",
+      "SkyboxUP": "117854984028729"
+    },
+    "Whomp Fortress": {
+      "SkyboxBk": "74425072943752",
+      "SkyboxDn": "111071018695875",
+      "SkyboxFt": "116612487359518",
+      "SkyboxLf": "134560024286794",
+      "SkyboxRt": "138489453144876",
+      "SkyboxUP": "73930419982083"
+    },
+    "Winterness": {
+      "SkyboxBk": "132925977332520",
+      "SkyboxDn": "81443080640995",
+      "SkyboxFt": "131179843166733",
+      "SkyboxLf": "133010053158683",
+      "SkyboxRt": "88760737531208",
+      "SkyboxUP": "114312644906946"
+    },
+    "Whales": {
+      "SkyboxBk": "108683039959071",
+      "SkyboxDn": "91278785379378",
+      "SkyboxFt": "105872825973301",
+      "SkyboxLf": "84231018929136",
+      "SkyboxRt": "137303937730114",
+      "SkyboxUP": "94631685718406"
+    },
+    "marisa_box": {
+      "SkyboxBk": "130164010973325",
+      "SkyboxDn": "88670515643916",
+      "SkyboxFt": "115384279495120",
+      "SkyboxLf": "110978567346125",
+      "SkyboxRt": "115685472548919",
+      "SkyboxUP": "81354409061919"
+    },
+    "Rainbow Gradient": {
+      "SkyboxBk": "73131331581182",
+      "SkyboxDn": "83206077558158",
+      "SkyboxFt": "92306149770480",
+      "SkyboxLf": "115930128088191",
+      "SkyboxRt": "77067806496664",
+      "SkyboxUP": "126777959946135"
+    },
+    "Red Fish": {
+      "SkyboxBk": "126915339998994",
+      "SkyboxDn": "116473958053203",
+      "SkyboxFt": "91181413775637",
+      "SkyboxLf": "98029475631582",
+      "SkyboxRt": "128049640837803",
+      "SkyboxUP": "128215567265710"
+    },
+    "SFOTH": {
+      "SkyboxBk": "132012116914536",
+      "SkyboxDn": "138998248173409",
+      "SkyboxFt": "106331975843829",
+      "SkyboxLf": "136320632593472",
+      "SkyboxRt": "96431537755214",
+      "SkyboxUP": "127246185063616"
+    },
+    "sky2006": {
+      "SkyboxBk": "131328244549361",
+      "SkyboxDn": "114203025178095",
+      "SkyboxFt": "121596562960640",
+      "SkyboxLf": "99805634761262",
+      "SkyboxRt": "72645466580459",
+      "SkyboxUP": "107818992094722"
+    },
+    "Tenkobox": {
+      "SkyboxBk": "70589196561590",
+      "SkyboxDn": "131625458848417",
+      "SkyboxFt": "116423396984358",
+      "SkyboxLf": "110027809487856",
+      "SkyboxRt": "102169073552538",
+      "SkyboxUP": "96172937036606"
+    },
+    "Underwater": {
+      "SkyboxBk": "107220210166167",
+      "SkyboxDn": "120331367598175",
+      "SkyboxFt": "97335578412517",
+      "SkyboxLf": "72020524872835",
+      "SkyboxRt": "99966208838590",
+      "SkyboxUP": "107673686685770"
+    },
+    "Wackybox": {
+      "SkyboxBk": "127187188135902",
+      "SkyboxDn": "124437962019004",
+      "SkyboxFt": "88070315672092",
+      "SkyboxLf": "117513052037884",
+      "SkyboxRt": "119561823338752",
+      "SkyboxUP": "70807437403604"
+    },
+    "Gradient 1": {
+      "SkyboxBk": "135829586091603",
+      "SkyboxDn": "86726757473186",
+      "SkyboxFt": "73443123094514",
+      "SkyboxLf": "138283866531131",
+      "SkyboxRt": "71030252933255",
+      "SkyboxUP": "114301643129799"
+    },
+    "Gradient 2": {
+      "SkyboxBk": "94371308274982",
+      "SkyboxDn": "94358811210698",
+      "SkyboxFt": "110895939419633",
+      "SkyboxLf": "136132227777862",
+      "SkyboxRt": "121564535990427",
+      "SkyboxUP": "113607288706133"
+    },
+    "Waterfall": {
+      "SkyboxBk": "108222002838122",
+      "SkyboxDn": "84671669495038",
+      "SkyboxFt": "70490780507889",
+      "SkyboxLf": "82639016420549",
+      "SkyboxRt": "91033869259841",
+      "SkyboxUp": "81625444695528"
     }
   }
 }
