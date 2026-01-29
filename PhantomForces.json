@@ -561,6 +561,10 @@
   "Textures": {
     "hitmarker": "91589255843429",
     "smoke": "213222519",
+    "Grenade Glow": {
+      "Friendly": "319079187 ",
+      "Enemy": "319082682 "
+    },
     "Optics": {
       "Red Dots": {
         "dot": "2659030505",
@@ -2044,4 +2048,5 @@
     }
   }
 }
+
 
