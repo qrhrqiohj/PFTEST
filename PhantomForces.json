@@ -2033,6 +2033,12 @@
     },
     "Optics": {
       "Kousaku Oled Frame": "7605485290"
+    },
+    "Grenades": {
+      "Subspace Tripmine": {
+        "Model": "18604018190",
+        "Texture": "11954766"
+      }
     }
   }
 }
