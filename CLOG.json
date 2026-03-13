@@ -31,9 +31,9 @@
             "replacement": null
         },
         "Rivals": {
-            "Owner": ".o0x",
+            "Owner": "nafo",
             "id": 17625359962,
-            "github": "https://raw.githubusercontent.com/gastrophobic/Fleasion_Contributes/refs/heads/main/rivals.json",
+            "github": "https://raw.githubusercontent.com/FleaNafo/Rivals.json/refs/heads/main/Rivals.json",
             "replacement": null
         },
         "Jailbreak": {
@@ -63,6 +63,7 @@
     }
 
 }
+
 
 
 
