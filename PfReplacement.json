@@ -268,6 +268,73 @@
       "Xmc": "116810983226938",
       "Xr-2": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Sounds/Bo3%20-%20Xr-2.ogg?raw=true"
     },
+    "BO6": {
+      "Pistol":{
+        "GS45": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_gs_fire.ogg?raw=true",
+        "9mm PM": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_pm_fire.ogg?raw=true",
+        "Grekhova": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_grekhova_fire.ogg?raw=true",
+        "Stryder .22": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_stryder_fire.ogg?raw=true",
+        "Gravemark .357": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_gravemark_fire.ogg?raw=true"
+      },
+      "SMG":{
+        "Saug": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_saug_fire.ogg?raw=true",
+        "Jackal PDW": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_jackal_fire.ogg?raw=true",
+        "Tanto .22": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_tanto_fire.ogg?raw=true",
+        "Sirin 9mm": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_sirin_fire.ogg?raw=true",
+        "PPSh-41": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_ppsh_fire.ogg?raw=true",
+        "Dresden 9mm": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_dresden_fire.ogg?raw=true",
+        "Kompakt 92": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_kompakt_fire.ogg?raw=true",
+        "LC10": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_lc_fire.ogg?raw=true",
+        "Ladra": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_ladra_fire.ogg?raw=true",
+        "PP-919": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_pp_fire.ogg?raw=true",
+        "KSV": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_ksv_fire.ogg?raw=true"
+      },
+      "Assault Rifle":{
+        "XM4": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_xm_fire.ogg?raw=true",
+        "AMES 85": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_ames_fire.ogg?raw=true",
+        "Krig C": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_krig_fire.ogg?raw=true",
+        "Model L": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_l_fire.ogg?raw=true",
+        "Merrick 556": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_merrick_fire.ogg?raw=true",
+        "Kilo 141": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_kilo_fire.ogg?raw=true",
+        "CR-56 AMAX": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_amax_fire.ogg?raw=true",
+        "AK-74": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_ak_fire.ogg?raw=true",
+        "AS VAL": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_asval_fire.ogg?raw=true",
+        "Cypher 091": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_cypher_fire.ogg?raw=true",
+        "GPR 91": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_gpr_fire.ogg?raw=true",
+        "ABR A1": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_abr_fire.ogg?raw=true",
+        "FFAR 1": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_ffar_fire.ogg?raw=true",
+        "Goblin Mk2": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_goblin_fire.ogg?raw=true"
+      },
+      "Marksman Rifle":{
+        "SWAT 556": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_swat_fire.ogg?raw=true",
+        "AEK-973": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_aek_fire.ogg?raw=true",
+        "TR2": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_tr_fire.ogg?raw=true",
+        "DM-10": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_dm_fire.ogg?raw=true",
+        "Tsarkov 762": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_tsarkov_fire.ogg?raw=true",
+        "Essex Model 07": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_essex_fire.ogg?raw=true"
+      },
+      "Sniper Rifle":{
+        "SVD": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_svd_fire.ogg?raw=true",
+        "AMR Mod 4": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_amr_fire.ogg?raw=true",
+        "LW3A1 Frostline": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_lw_fire.ogg?raw=true",
+        "LR 762": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_lr_fire.ogg?raw=true",
+        "HDR": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_hdr_fire.ogg?raw=true"
+      },
+      "Shotgun":{
+        "Olympia": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_olympia_fire.ogg?raw=true",
+        "Marine SP": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_marine_fire.ogg?raw=true",
+        "ASG-89": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_asg_fire.ogg?raw=true",
+        "Maelstrom": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_maelstrom_fire.ogg?raw=true"
+      },
+      "LMG":{
+        "Feng 82": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_feng_fire.ogg?raw=true",
+        "PU-21": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_pu_fire.ogg?raw=true",
+        "PML 556": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_pml_fire.ogg?raw=true",
+        "XMG": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_xmg_fire.ogg?raw=true",
+        "GPMG-7": "https://github.com/hblkcat/John-Fleasion-Contributions/raw/refs/heads/main/Sounds/Weapon%20Sounds/Black%20Ops%206/bo6_weapon_gpmg_fire.ogg?raw=true"
+      }
+  
+    },
     "Cor": {
       "Ptrs": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Sounds/Cor%20-%20Ptrs.ogg?raw=true"
     },
