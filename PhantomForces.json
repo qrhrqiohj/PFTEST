@@ -596,6 +596,7 @@
     }
   },
   "Textures": {
+    "sleeves": "2163189692",
     "hitmarker": "91589255843429",
     "smoke": "213222519",
     "Grenade Glow": {
@@ -666,7 +667,6 @@
       }
     },
     "Skins": {
-      "sleeves": "2163189692",
       "Tier 1": {
         "Starter 3": {
           "Diamond*": "2651593993"
