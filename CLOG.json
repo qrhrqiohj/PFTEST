@@ -54,6 +54,12 @@
             "github": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/refs/heads/main/ORIGINAL.json",
             "Replacement": "https://raw.githubusercontent.com/CfwSky/SEWH-Floppr/refs/heads/main/REPLACEMENT.json"
         },
+        "MMM2": {
+            "Owner": "Sky",
+            "id": 142823291,
+            "github": "https://raw.githubusercontent.com/CfwSky/MM2-Floppr/refs/heads/main/ORIGINAL.json",
+            "Replacement": null
+        },
         "T4T Modpack": {
             "Owner": "T4T",
             "id": null,
